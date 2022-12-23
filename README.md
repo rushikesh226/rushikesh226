@@ -10,7 +10,7 @@
 
 - 🌱 I’m currently learning **React, React-Redux, Chakra-UI, HTML, CSS, Data Structures and Algorithms, JavaSctipt**
 
-- 💬 Ask me about **React, DSA, HTML, CSS, JavaScript**
+- 💬 Ask me about **React, Redux, Chakra UI, DSA, HTML, CSS, JavaScript**
 
 - 📫 How to reach me **rushikeshmali226@gmail.com**
 
