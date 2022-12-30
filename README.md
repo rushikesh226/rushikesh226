@@ -1,5 +1,4 @@
 
-
 <h1 align="center">Hi 👋, I'm Rushikesh Dattatray Mali</h1>
 <h3 align="center">Learning MERN Stack | Aspiring Full Stack Web Developer</h3>
 <img align="right" alt="Coding" width="400" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTJsKZVppBhshJBN6_RHp9luylwz4eQO4I8Tg&usqp=CAU" />
@@ -8,7 +7,7 @@
 
 - 🔭 I’m currently working on **React JS**
 
-- 🌱 I’m currently learning **React, React-Redux, Chakra-UI, HTML, CSS, Data Structures and Algorithms, JavaSctipt**
+- 🌱 I’m currently learning **MERN Stack, React, React-Redux, Chakra-UI, HTML, CSS, Data Structures and Algorithms, JavaSctipt**
 
 - 💬 Ask me about **React, Redux, React-Redux, Chakra UI, DSA, HTML, CSS, JavaScript**
 
