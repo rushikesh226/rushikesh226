@@ -13,6 +13,11 @@
 
 - 📫 How to reach me **rushikeshmali226@gmail.com**
 
+- 📫 LinkedIn **https://www.linkedin.com/in/rushikesh-mali-56400613b/**
+
+
+
+
 - ⚡ Fun fact **Fun Loving, Hardworking, Team Player**
 
 
