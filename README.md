@@ -1,25 +1,29 @@
 
 <h1 align="center">Hi 👋, I'm Rushikesh Dattatray Mali</h1>
 <h3 align="center">Learning MERN Stack | Aspiring Full Stack Web Developer</h3>
+
+<img src="https://camo.githubusercontent.com/6ce26497c92c1a8d72c8816fc76ed9438cc0e815b73a410895c95634d863ff8d/68747470733a2f2f7237713677397a362e726f636b657463646e2e6d652f6361726565722f77702d636f6e74656e742f75706c6f6164732f323032302f30332f66756c6c2d737461636b2d646576656c6f706d656e742e676966" height="400px" width="100%" data-canonical-src="https://r7q6w9z6.rocketcdn.me/career/wp-content/uploads/2020/03/full-stack-development.gif" style="max-width: 100%; display: inline-block;" data-target="animated-image.originalImage">
+
 <img align="right" alt="Coding" width="400" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTJsKZVppBhshJBN6_RHp9luylwz4eQO4I8Tg&usqp=CAU" />
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rushikesh226&label=Profile%20views&color=0e75b6&style=flat" alt="rushikesh226" /> </p>
 
+<h2 dir="auto"><a id="user-content--about-me" class="anchor" aria-hidden="true" href="#-about-me"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M7.775 3.275a.75.75 0 001.06 1.06l1.25-1.25a2 2 0 112.83 2.83l-2.5 2.5a2 2 0 01-2.83 0 .75.75 0 00-1.06 1.06 3.5 3.5 0 004.95 0l2.5-2.5a3.5 3.5 0 00-4.95-4.95l-1.25 1.25zm-4.69 9.64a2 2 0 010-2.83l2.5-2.5a2 2 0 012.83 0 .75.75 0 001.06-1.06 3.5 3.5 0 00-4.95 0l-2.5 2.5a3.5 3.5 0 004.95 4.95l1.25-1.25a.75.75 0 00-1.06-1.06l-1.25 1.25a2 2 0 01-2.83 0z"></path></svg></a>👨🏻&zwj;💻 About Me:</h2>
 
-- 🔭 I’m currently working on **React JS**
+- <p dir="auto"><g-emoji class="g-emoji" alias="raising_hand_man" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f64b-2642.png">🙋&zwj;♂️</g-emoji> All about me is at <strong><a href="https://rushikesh-mali.netlify.app/" rel="nofollow">My Website</a></strong></p>
 
-- 🌱 I’m currently learning **MERN Stack, React, React-Redux, Chakra-UI, HTML, CSS, Data Structures and Algorithms, JavaSctipt**
+- 🔭 I’m currently working on <code>Something Intresting</code>
+
+- 🌱 I’m currently learning <code>MERN Stack</code>
+
+- <p dir="auto"><g-emoji class="g-emoji" alias="dancers" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f46f.png">👯</g-emoji> I’m looking to collaborate for <code>Projects</code></p> 
 
 - 💬 Ask me about **React, Redux, React-Redux, Chakra UI, DSA, HTML, CSS, JavaScript**
 
-- 📫 How to reach me **rushikeshmali226@gmail.com**
-
-- 📫 LinkedIn **https://www.linkedin.com/in/rushikesh-mali-56400613b/**
-
-
-
+- <p dir="auto"><g-emoji class="g-emoji" alias="man_technologist" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f468-1f4bb.png">👨&zwj;💻</g-emoji> Life Hack: Learn new tech <g-emoji class="g-emoji" alias="fire" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f525.png">🔥</g-emoji> and share what you have learned <g-emoji class="g-emoji" alias="tada" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f389.png">🎉</g-emoji></p>
 
 - ⚡ Fun fact **Fun Loving, Hardworking, Team Player**
 
+- <p dir="auto"><g-emoji class="g-emoji" alias="heartbeat" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f493.png">💓</g-emoji> I love designing websites and coding.</p>
 
 ### :hammer_and_wrench: Languages and Tools I Use :
 <div>
@@ -43,10 +47,16 @@
   
 </div>
 
-### :fire: My Stats :
+<h2 dir="auto"><a id="user-content--my-github-data" class="anchor" aria-hidden="true" href="#-my-github-data"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M7.775 3.275a.75.75 0 001.06 1.06l1.25-1.25a2 2 0 112.83 2.83l-2.5 2.5a2 2 0 01-2.83 0 .75.75 0 00-1.06 1.06 3.5 3.5 0 004.95 0l2.5-2.5a3.5 3.5 0 00-4.95-4.95l-1.25 1.25zm-4.69 9.64a2 2 0 010-2.83l2.5-2.5a2 2 0 012.83 0 .75.75 0 001.06-1.06 3.5 3.5 0 00-4.95 0l-2.5 2.5a3.5 3.5 0 004.95 4.95l1.25-1.25a.75.75 0 00-1.06-1.06l-1.25 1.25a2 2 0 01-2.83 0z"></path></svg></a><g-emoji class="g-emoji" alias="bar_chart" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4ca.png">📊</g-emoji> My GitHub Data:</h2>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rushikesh226&show_icons=true&locale=en&layout=compact" alt="rushikesh226" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rushikesh226&show_icons=true&locale=en" alt="rushikesh226" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rushikesh226&" alt="rushikesh226" /></p>
 
+<h2 dir="auto"><a id="user-content-️-lets-get-connected" class="anchor" aria-hidden="true" href="#️-lets-get-connected"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M7.775 3.275a.75.75 0 001.06 1.06l1.25-1.25a2 2 0 112.83 2.83l-2.5 2.5a2 2 0 01-2.83 0 .75.75 0 00-1.06 1.06 3.5 3.5 0 004.95 0l2.5-2.5a3.5 3.5 0 00-4.95-4.95l-1.25 1.25zm-4.69 9.64a2 2 0 010-2.83l2.5-2.5a2 2 0 012.83 0 .75.75 0 001.06-1.06 3.5 3.5 0 00-4.95 0l-2.5 2.5a3.5 3.5 0 004.95 4.95l1.25-1.25a.75.75 0 00-1.06-1.06l-1.25 1.25a2 2 0 01-2.83 0z"></path></svg></a><g-emoji class="g-emoji" alias="heart" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/2764.png">❤️</g-emoji> Let's get connected:</h2>
+
+<div align="center" dir="auto">
+<a href="https://www.linkedin.com/in/rushikesh-mali-56400613b/" rel="nofollow"><img alt="LinkedIn" src="https://camo.githubusercontent.com/a493f6833f99fb3c85788d6d9305e6b7a42b838e5ee5d138fd9a8214a7e77472/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f6c696e6b6564696e2d2532333030373742352e7376673f267374796c653d666f722d7468652d6261646765266c6f676f3d6c696e6b6564696e266c6f676f436f6c6f723d7768697465" height="30px" data-canonical-src="https://img.shields.io/badge/linkedin-%230077B5.svg?&amp;style=for-the-badge&amp;logo=linkedin&amp;logoColor=white" style="max-width: 100%;"></a> 
+<p dir="auto"><a href="mailto:gmail.com/rushikeshmali226@gmail.com"><img src="https://camo.githubusercontent.com/571384769c09e0c66b45e39b5be70f68f552db3e2b2311bc2064f0d4a9f5983b/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f476d61696c2d4431343833363f7374796c653d666f722d7468652d6261646765266c6f676f3d676d61696c266c6f676f436f6c6f723d7768697465" height="30px" data-canonical-src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&amp;logo=gmail&amp;logoColor=white" style="max-width: 100%;"></a></p>
+</div>
