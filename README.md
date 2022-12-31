@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Rushikesh Dattatray Mali</h1>
 <h3 align="center">Learning MERN Stack | Aspiring Full Stack Web Developer</h3>
 
-<img src="https://camo.githubusercontent.com/6ce26497c92c1a8d72c8816fc76ed9438cc0e815b73a410895c95634d863ff8d/68747470733a2f2f7237713677397a362e726f636b657463646e2e6d652f6361726565722f77702d636f6e74656e742f75706c6f6164732f323032302f30332f66756c6c2d737461636b2d646576656c6f706d656e742e676966" height="400px" width="100%" data-canonical-src="https://r7q6w9z6.rocketcdn.me/career/wp-content/uploads/2020/03/full-stack-development.gif" style="max-width: 100%; display: inline-block;" data-target="animated-image.originalImage">
+<img src="https://camo.githubusercontent.com/6ce26497c92c1a8d72c8816fc76ed9438cc0e815b73a410895c95634d863ff8d/68747470733a2f2f7237713677397a362e726f636b657463646e2e6d652f6361726565722f77702d636f6e74656e742f75706c6f6164732f323032302f30332f66756c6c2d737461636b2d646576656c6f706d656e742e676966" height="400px" width="100%" data-canonical-src="https://r7q6w9z6.rocketcdn.me/career/wp-content/uploads/2020/03/full-stack-development.gif" data-target="animated-image.originalImage">
 
 <img align="right" alt="Coding" width="400" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTJsKZVppBhshJBN6_RHp9luylwz4eQO4I8Tg&usqp=CAU" />
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rushikesh226&label=Profile%20views&color=0e75b6&style=flat" alt="rushikesh226" /> </p>
