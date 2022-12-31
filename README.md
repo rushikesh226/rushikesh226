@@ -24,13 +24,12 @@
 ### :hammer_and_wrench: Languages and Tools :
 <div>
   
-  <img src="[https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg](https://cdn.worldvectorlogo.com/logos/react-2.svg)" title="React" alt="React" width="40" height="40"/>&nbsp;
-  <img src="[https://github.com/devicons/devicon/blob/master/icons/materialui/materialui-original.svg](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQTAE0ZWmir-__RdhICIoF1SDM0sKMFT0kuGfzLrAuqgQ&s)" title="Chakra UI" alt="Chakra UI" width="40" height="40"/>&nbsp;
-  <img src="[https://github.com/devicons/devicon/blob/master/icons/redux/redux-original.svg](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTzBL1zYTtfedcaVay24QorQfwh7OAIBZW28lLheREXAw&s)" title="Redux" alt="Redux " width="40" height="40"/>&nbsp;
-  <img src="[https://github.com/devicons/devicon/blob/master/icons/redux/redux-original.svg](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSC5cy-7uLHKJ3mlq1KsR6zvWN8Mpj4e9cZtMhwbVn1ZA&s)" title="React-Redux" alt="React-Redux " width="40" height="40"/>&nbsp;
-  <img src="[https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg](https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/CSS3_logo_and_wordmark.svg/363px-CSS3_logo_and_wordmark.svg.png?20160530175649)"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
-  <img src="[https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg](https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/512px-HTML5_logo_and_wordmark.svg.png?20170517184425)" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
-  <img src="[https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg](https://cdn.worldvectorlogo.com/logos/logo-javascript.svg)" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
+  <img src="https://cdn.worldvectorlogo.com/logos/react-2.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
+  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTbq5Sn-6Krp2Rxbrz4Df3YuCvd-jVlMtVXH4uLzs81lQ&s" title="Chakra UI" alt="Chakra UI" width="40" height="40"/>&nbsp;
+  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTzBL1zYTtfedcaVay24QorQfwh7OAIBZW28lLheREXAw&s" title="Redux" alt="Redux " width="40" height="40"/>&nbsp;
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/CSS3_logo_and_wordmark.svg/363px-CSS3_logo_and_wordmark.svg.png?20160530175649"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/512px-HTML5_logo_and_wordmark.svg.png?20170517184425" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
+  <img src="https://cdn.worldvectorlogo.com/logos/logo-javascript.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
   
 </div>
 
