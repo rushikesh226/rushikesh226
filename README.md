@@ -1,5 +1,6 @@
 
-<h1 align="center">Hi 👋, I'm Rushikesh Dattatray Mali</h1>
+<h1 align="center">Hello 
+<img src="https://camo.githubusercontent.com/3b729044468adecbeb11fa7983822dd049872a0cfd8f0b5f4d3310bf9f626136/68747470733a2f2f6d65646961312e67697068792e636f6d2f6d656469612f426f6641757033414370434539387a6963552f67697068792e6769663f6369643d373930623736313165363566343366303238336662383535323832313938356537313762306335383030383030343237267269643d67697068792e6769662663743d67" height="300px" data-canonical-src="https://media1.giphy.com/media/BofAup3ACpCE98zicU/giphy.gif?cid=790b7611e65f43f0283fb8552821985e717b0c5800800427&amp;rid=giphy.gif&amp;ct=g" style="max-width: 100%; display: inline-block;" data-target="animated-image.originalImage"> I'm Rushikesh Dattatray Mali</h1>
 <h3 align="center">Learning MERN Stack | Aspiring Full Stack Web Developer</h3>
 
 <img src="https://camo.githubusercontent.com/6ce26497c92c1a8d72c8816fc76ed9438cc0e815b73a410895c95634d863ff8d/68747470733a2f2f7237713677397a362e726f636b657463646e2e6d652f6361726565722f77702d636f6e74656e742f75706c6f6164732f323032302f30332f66756c6c2d737461636b2d646576656c6f706d656e742e676966" height="400px" width="100%" data-canonical-src="https://r7q6w9z6.rocketcdn.me/career/wp-content/uploads/2020/03/full-stack-development.gif" data-target="animated-image.originalImage">
