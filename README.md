@@ -18,7 +18,7 @@
 
 - <p dir="auto"><g-emoji class="g-emoji" alias="dancers" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f46f.png">👯</g-emoji> I’m looking to collaborate for <code>Projects</code></p> 
 
-- 💬 Ask me about **React, Redux, React-Redux, Chakra UI, Data Structures and Algorithms, HTML, CSS, Javascript, NPM**
+- 💬 Ask me about **React, Redux, React-Redux, Chakra UI, Data Structures and Algorithms, HTML, CSS, Javascript, NPM Packages**
 
 - <p dir="auto"><g-emoji class="g-emoji" alias="man_technologist" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f468-1f4bb.png">👨&zwj;💻</g-emoji> Life Hack: Learn new tech <g-emoji class="g-emoji" alias="fire" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f525.png">🔥</g-emoji> and share what you have learned <g-emoji class="g-emoji" alias="tada" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f389.png">🎉</g-emoji></p>
 
