@@ -21,7 +21,7 @@
 - 💬 Ask me about **React, Redux, React-Redux, Chakra UI, Data Structures and Algorithms, HTML, CSS, Javascript, NPM**
 
 - <p dir="auto"><g-emoji class="g-emoji" alias="man_technologist" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f468-1f4bb.png">👨&zwj;💻</g-emoji> Life Hack: Learn new tech <g-emoji class="g-emoji" alias="fire" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f525.png">🔥</g-emoji> and share what you have learned <g-emoji class="g-emoji" alias="tada" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f389.png">🎉</g-emoji></p>
-
+ 
 - ⚡ Fun fact **Fun Loving, Hardworking, Team Player**
 
 - <p dir="auto"><g-emoji class="g-emoji" alias="heartbeat" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f493.png">💓</g-emoji> I love designing websites and coding.</p>
