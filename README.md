@@ -44,13 +44,6 @@
 </p>
 
 ## 📊 My GitHub Data:
-
-<p>
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rushikesh226&show_icons=true&locale=en&layout=compact" alt="rushikesh226 top languages" />
-</p>
-<p>
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=rushikesh226&show_icons=true&locale=en" alt="rushikesh226 stats" />
-</p>
 <p>
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rushikesh226" alt="rushikesh226 streak" />
 </p>
