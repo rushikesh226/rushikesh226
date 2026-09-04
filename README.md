@@ -1,7 +1,7 @@
 <h1 align="center">Hello
     <img src="https://media1.giphy.com/media/BofAup3ACpCE98zicU/giphy.gif" height="300px" alt="wave">
     I'm Rushikesh Dattatray Mali</h1>
-<h3 align="center">Learning MERN Stack | Aspiring Full Stack Web Developer</h3>
+<h3 align="center">Full Stack Web Developer | MERN Stack</h3>
 
 <img src="https://r7q6w9z6.rocketcdn.me/career/wp-content/uploads/2020/03/full-stack-development.gif" height="400px" width="100%" alt="full stack dev">
 
@@ -11,10 +11,12 @@
 
 ## 👨🏻‍💻 About Me:
 
+I'm a Full Stack Web Developer who builds responsive, user-focused web applications using the MERN stack. I enjoy turning ideas into working products — from designing clean UIs to building reliable APIs and data layers behind them.
+
 - 🙋‍♂️ All about me is at **[My Portfolio](https://rushikesh226.github.io/#)**
 - 🔭 I'm currently working on `Something Interesting`
-- 🌱 I'm currently learning `MERN Stack`
-- 👯 I'm looking to collaborate for `Projects`
+- 🌱 I'm currently deepening my skills in `MERN Stack`
+- 👯 I'm looking to collaborate on `Projects`
 - 💬 Ask me about **React, Redux, React-Redux, Chakra UI, Data Structures and Algorithms, HTML, CSS, Javascript, NPM**
 - 👨‍💻 Life Hack: Learn new tech 🔥 and share what you have learned 🎉
 - ⚡ Fun fact: **Fun Loving, Hardworking, Team Player**
@@ -44,6 +46,13 @@
 </p>
 
 ## 📊 My GitHub Data:
+
+<p>
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rushikesh226&show_icons=true&locale=en&layout=compact" alt="rushikesh226 top languages" />
+</p>
+<p>
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=rushikesh226&show_icons=true&locale=en" alt="rushikesh226 stats" />
+</p>
 <p>
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rushikesh226" alt="rushikesh226 streak" />
 </p>
